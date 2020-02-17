@@ -3,7 +3,7 @@
 #### in this project we want to use SwiftUI for design a simple app in iOS.
 
 ## demo
-![app video ](/SwiftUIDemo.mov)
+![app video ](/SwiftUIDemo)
 
 #### images
 ![screenshot image ](/screen1.png)
