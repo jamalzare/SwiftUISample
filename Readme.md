@@ -15,7 +15,7 @@
 #### app screen record Link
 https://github.com/jamalzare/SwiftUISample/blob/master/SwiftUIDemo.mov
 
-## we build this modules in this app
+### modules we create in this project
 ![structer image ](/image.png)
 
 #### you can see the codes about this design in ContentView.swift file.
