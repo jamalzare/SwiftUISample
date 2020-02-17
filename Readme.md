@@ -32,5 +32,5 @@ you can contact us about this project and everything about developing iOS App li
 ###### telegram: https://t.me/jamalzare514gmail
 
 ## thanks calebrwells who learned us for this project
-## calebrwellses github page: https://github.com/calebrwells/Movie-App
-## calebrwellses youtube channel: A Swiftly Tilting Planet : https://www.youtube.com/channel/UCgdLepqjYyKF4e8vxBZGdEQ
+##### calebrwellses github page: https://github.com/calebrwells/Movie-App
+##### calebrwellses youtube channel: A Swiftly Tilting Planet : https://www.youtube.com/channel/UCgdLepqjYyKF4e8vxBZGdEQ
