@@ -5,6 +5,9 @@
 ## demo
 ![app video ](/SwiftUIDemo.mov)
 
+#### app demo Link
+https://github.com/jamalzare/SwiftUISample/blob/master/SwiftUIDemo.mov
+
 ## we build this modules in this app
 ![structer image ](/image.png)
 
