@@ -21,8 +21,9 @@ https://github.com/jamalzare/SwiftUISample/blob/master/SwiftUIDemo.mov
 https://www.youtube.com/watch?v=W7rxsgeGEnw
 
 
-#### you can contact us about this project and everything about developing iOS App like SwiftUI, UIKit, SpriteKit, CoreData, and etc...
+### contact us
+you can contact us about this project and everything about developing iOS App like SwiftUI, UIKit, SpriteKit, CoreData, and etc...
 
-#### Email: Jamalzare514@gmail.com
-#### whatsapp: +989118740920
-#### telegram: https://t.me/jamalzare514gmail
+###### Email: Jamalzare514@gmail.com
+###### whatsapp: +989118740920
+###### telegram: https://t.me/jamalzare514gmail
