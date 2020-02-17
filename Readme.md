@@ -3,7 +3,10 @@
 ### in this project we want to use SwiftUI for design a simple app in iOS.
 
 ## demo
-![app video ]
+![app video ] (/SwiftUIDemo.mov)
+
+## we build this modules in this app
+![structer image ] (/image.png)
 
 ### you can see the codes about this design in ContentView.swift file.
 
