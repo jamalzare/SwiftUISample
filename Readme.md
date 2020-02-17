@@ -3,11 +3,14 @@
 #### in this project we want to use SwiftUI for design a simple app in iOS.
 
 ## demo
-![app video ](/SwiftUIDemo)
 
-#### images
+
+###### images
 ![screenshot image ](/screen1.png)
 ![screenshot image ](/screen2.png)
+
+#### screen record
+![app video ](/SwiftUIDemo)
 
 #### app screen record Link
 https://github.com/jamalzare/SwiftUISample/blob/master/SwiftUIDemo.mov
