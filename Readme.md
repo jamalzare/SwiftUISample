@@ -10,7 +10,7 @@
 ![screenshot image ](/screen2.png)
 
 #### screen record
-![app video ](/SwiftUIDemo)
+![app video ](/screenrecord.mov)
 
 #### app screen record Link
 https://github.com/jamalzare/SwiftUISample/blob/master/SwiftUIDemo.mov
